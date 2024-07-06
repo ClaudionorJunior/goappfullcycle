@@ -38,3 +38,11 @@ Executando:
 ```
 docker run <your-user>/goappfullcycle
 ```
+
+Pull Docker Hub:
+```
+docker run <your-user>/goappfullcycle
+```
+
+Link Docker Hub
+[claudionorjr/goappfullcycle](https://hub.docker.com/r/claudionorjr/goappfullcycle)
